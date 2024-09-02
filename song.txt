@@ -3,5 +3,10 @@ wall of shields
 standing strong
 onthis their chosen battle field
 
+<<<<<<< HEAD
 from the lines 
 Shift by shift
+=======
+From the lines
+Shield by shield
+>>>>>>> 9aa98cf9c81a086c04b154c02e8627a5493fa1b4
